@@ -19,7 +19,7 @@ Here are some of the key skills that I possess:
 ## Projects
 
 ### Movie Tracker(Android)
-  - Used Technologies: 'Kotlin', 'SQL', 'Android Studio'
+  - Used Technologies: `Kotlin`, `SQL`, `Android Studio`
   - Android app that helps users to track their watched movies.
   - Uses [OMDB API](https://www.omdbapi.com/)
 
