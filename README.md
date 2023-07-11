@@ -11,7 +11,7 @@ Here are some of the key skills that I possess:
 
 - Python
 - Kotlin
-- Go (currently studying)
+- Go -> (currently studying)
 - HTML, CSS, JavaScript
 - SQL
 - OOP
