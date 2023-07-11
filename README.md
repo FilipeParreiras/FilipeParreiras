@@ -1,6 +1,8 @@
 # Filipe Parreiras
 `Computing Engineering`
 
+![Your GIF Description](https://gfycat.com/absoluteforcefulcopperbutterfly)
+
 ## About Me
 
 Currently, i'm studig Computing Engineering at Universidade Lusófona. I believe in constantly learning and exploring new horizons to stay at the forefront of coding, and elements like Networking. 
