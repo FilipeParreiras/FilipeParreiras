@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Filipe Parreiras
+`Computing Engineering`
 <!--
 **FilipeParreiras/FilipeParreiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
