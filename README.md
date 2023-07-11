@@ -1,7 +1,8 @@
 # Filipe Parreiras
 `Computing Engineering`
 
-![Your GIF Description](https://gfycat.com/absoluteforcefulcopperbutterfly)
+![Your GIF Description](https://thumbs.gfycat.com/AbsoluteForcefulCopperbutterfly-mobile.mp4)
+
 
 ## About Me
 
