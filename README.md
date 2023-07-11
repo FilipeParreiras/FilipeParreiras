@@ -1,7 +1,7 @@
 # Filipe Parreiras
 `Computing Engineering`
 
-<img src="[path/to/your/gif.gif](https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif)" alt="Your GIF Description"height: 200px;">
+<img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" alt="Your GIF Description"height: 200px;">
 
 ## About Me
 
