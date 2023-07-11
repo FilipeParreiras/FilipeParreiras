@@ -5,7 +5,7 @@
 
   Currently, i'm studying Computing Engineering at Universidade Lusófona. I believe in constantly learning and exploring new horizons to stay at the forefront of coding, and elements like Networking. 
 
-## Skills
+## :computer: Skills
 
 Here are some of the key skills that I possess:
 
