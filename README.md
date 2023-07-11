@@ -1,18 +1,23 @@
 # Filipe Parreiras
 `Computing Engineering`
 
-------------------------
-<!--
-**FilipeParreiras/FilipeParreiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Currently, i'm studig Computing Engineering at Universidade Lusófona. I believe in constantly learning and exploring new horizons to stay at the forefront of coding, and elements like Networking. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+
+
+## Skills
+
+Here are some of the key skills that I possess:
+
+- Python
+- Kotlin
+- HTML, CSS, JavaScript
+- SQL
+- OOP
+  
+
+Thank you for visiting my portfolio. Enjoy exploring my work!
